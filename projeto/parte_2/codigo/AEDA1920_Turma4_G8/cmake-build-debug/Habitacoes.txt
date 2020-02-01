@@ -1,0 +1,108 @@
+Condominio Centro
+Coimbra
+Rua Sobe e Desce
+Casal do Lobo
+4450-033
+200
+Vivenda
+250
+1
+----------
+Rua Cai Chuva
+Orelhudo
+4450-673
+150
+Apartamento
+t3
+2
+----------
+--------------------
+Condominio Espanha
+Madrid
+Rua Espanholita
+Leganes
+4420-022
+175
+Vivenda
+100
+1
+----------
+Rua Del Tacos
+Chinchon
+4420-111
+100
+Vivenda
+50
+0
+----------
+--------------------
+Condominio do Sul
+Lisboa, Portugal
+Rua Apartamento de Teste
+Teste
+4999-000
+456
+Apartamento
+t3
+2
+----------
+Rua 25 de Abril
+Lisboa
+1000-004
+20
+Apartamento
+T2
+3
+----------
+Rua de Alvalade
+Lisboa
+1906-777
+300
+Apartamento
+t5
+4
+----------
+--------------------
+Condominio do Norte
+Porto, Portugal
+Rua de Agosto
+Aveiro
+3800-003
+150
+Vivenda
+1000
+1
+----------
+Rua 5 de Outubro
+Porto
+4470-123
+100
+Apartamento
+T3
+10
+----------
+Rua do Hospital
+Porto
+4470-161
+60
+Vivenda
+100
+0
+----------
+Rua dos Bananas
+Matosinhos
+4465-665
+150
+Vivenda
+75
+0
+----------
+Rua Agra Nova
+Povoa de Varzim
+4490-036
+200
+Vivenda
+100
+0
+----------
+--------------------

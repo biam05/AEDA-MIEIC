@@ -1,0 +1,35 @@
+Condominio Centro
+Coimbra
+--------------------
+Condominio Espanha
+Madrid
+--------------------
+Condominio do Sul
+Lisboa, Portugal
+Autocarro
+Cais do Sodre
+Bairro Alto
+100
+----------
+Comboio
+Sao Joao
+Ermesinde
+10
+--------------------
+Condominio do Norte
+Porto, Portugal
+Metro
+Povoa de Varzim
+IPO
+200
+----------
+Comboio
+Sao Joao
+Maia
+40
+----------
+Autocarro
+Trindade
+Camara Municipal
+20
+--------------------

@@ -1,0 +1,92 @@
+Condominio Centro
+Coimbra
+Paula Salgado
+124356879
+4
+1
+2020
+4450-033
+-----
+----------
+--------------------
+Condominio Espanha
+Madrid
+El Professor
+555666777
+4
+1
+2020
+4420-022
+-----
+----------
+Sergio Ramos
+553322110
+4
+1
+2020
+4420-111
+-----
+----------
+--------------------
+Condominio do Sul
+Lisboa, Portugal
+Antonio de Portugal
+959595959
+4
+1
+2020
+1000-004
+-----
+----------
+--------------------
+Condominio do Norte
+Porto, Portugal
+Paulo Ribeiro
+999999999
+16
+10
+2018
+4490-036
+-----
+Servico de Pintura
+350
+Servico de Limpeza
+50
+456
+Sr Antonio
+470
+Servico de Canalizacao
+100
+Servico de Apoio
+30
+----------
+Beatriz Mendes
+123456789
+18
+11
+2018
+4470-123
+-----
+----------
+Diana Chaves
+123123123
+17
+5
+2019
+4470-161
+-----
+Servico de Limpeza
+50
+5
+Sr Dinis
+58
+----------
+Fernando Marinho
+196189896
+4
+1
+2020
+4465-665
+-----
+----------
+--------------------

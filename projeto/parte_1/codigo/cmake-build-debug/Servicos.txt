@@ -1,0 +1,20 @@
+1
+Servico de Limpeza
+50
+----------
+2
+Servico de Canalizacao
+100
+----------
+3
+Servico de Pintura
+350
+----------
+4
+Servico de Seguranca
+100
+----------
+5
+Servico de Apoio
+30
+----------

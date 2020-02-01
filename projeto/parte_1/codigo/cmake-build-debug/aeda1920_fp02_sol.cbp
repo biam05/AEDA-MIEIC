@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="aeda1920_fp02_sol"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\docs\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aeda1920_fp02_sol">
+				<Option output="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/aeda1920_fp02_sol.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 aeda1920_fp02_sol"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aeda1920_fp02_sol/fast">
+				<Option output="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/aeda1920_fp02_sol.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 aeda1920_fp02_sol/fast"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Doxygen">
+				<Option working_dir="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 Doxygen"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/CondomiX.cpp">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/CondomiX.h">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/Condominio.cpp">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/Condominio.h">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/Condomino.cpp">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/Condomino.h">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/Excecoes.h">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/Habitacao.cpp">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/Habitacao.h">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/PedidoPrestacaoServico.cpp">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/PedidoPrestacaoServico.h">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/PrestadorServicoLimpeza.cpp">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/PrestadorServicoLimpeza.h">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/Servico.cpp">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/Servico.h">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/main.cpp">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/tests.cpp">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/utils.cpp">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/Tests/utils.h">
+			<Option target="aeda1920_fp02_sol"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/docs/Doxyfile">
+			<Option virtualFolder="CMake Files\docs\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

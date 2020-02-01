@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/BST.h
+iostream
+-
+stack
+-
+queue
+-
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/Client.h
+string
+-
+vector
+-
+tuple
+-
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/ClientRecord.h
+string
+-
+Client.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/Client.h
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/Property.h
+string
+-
+Client.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/Client.h
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/PropertyTypeItem.h
+Property.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/Property.h
+Client.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/Client.h
+string
+-
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/REAgency.cpp
+REAgency.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/REAgency.h
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/REAgency.h
+BST.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/BST.h
+vector
+-
+iostream
+-
+unordered_set
+-
+queue
+-
+ClientRecord.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/ClientRecord.h
+PropertyTypeItem.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/18-19/Tests/PropertyTypeItem.h
+

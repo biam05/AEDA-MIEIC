@@ -1,0 +1,5 @@
+"C:\Users\MMM\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\MMM\Documents\aeda-cg1\AEDA1920_Turma4_G8
+Doxygen build started
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/MMM/Documents/aeda-cg1/AEDA1920_Turma4_G8/cmake-build-debug

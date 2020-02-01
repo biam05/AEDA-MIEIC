@@ -1,0 +1,37 @@
+Condominio Centro
+Coimbra
+apagar
+657847362
+2
+--------------------
+Condominio Espanha
+Madrid
+--------------------
+Condominio do Sul
+Lisboa, Portugal
+Raul Salgado
+101110111
+24
+----------
+Marco Horacio
+330033003
+1946
+--------------------
+Condominio do Norte
+Porto, Portugal
+Primeiro Antigo Condomino
+191919191
+12
+----------
+Fernando Madureira
+198319831
+2
+----------
+Segundo Antigo Condomino
+757575757
+2
+----------
+Condomino para Testar
+123654789
+16
+--------------------

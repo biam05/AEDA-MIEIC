@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['getareaexterior_169',['getAreaExterior',['../class_vivenda.html#a6d5c7fd13d3f2b131e17c0ca6023e537',1,'Vivenda']]],
+  ['getareahabitacional_170',['getAreaHabitacional',['../class_habitacao.html#acafb129e206e4408332625dc59aba099',1,'Habitacao']]],
+  ['getcidade_171',['getCidade',['../class_morada.html#a436f524240d5cd41fb3b909b54010222',1,'Morada']]],
+  ['getcodigopostal_172',['getCodigoPostal',['../class_morada.html#a1847bed50eb749300eb2f9f7ca15781f',1,'Morada']]],
+  ['getcompiscina_173',['getComPiscina',['../class_vivenda.html#a5876a17c5734814decca65d0e7daf3de',1,'Vivenda']]],
+  ['getcondominos_174',['getCondominos',['../class_condominio.html#a5c7676c029c33c99ef2314e8877ead03',1,'Condominio']]],
+  ['getcusto_175',['getCusto',['../class_servico.html#a777d67e964e798f6b79749146185baec',1,'Servico']]],
+  ['getcustomensal_176',['getCustoMensal',['../class_servico.html#a375fb4a8404c1dfe945fbe79530236d9',1,'Servico::getCustoMensal()'],['../class_servico_limpeza.html#ab56d834d342e4c84a03ebbb9bdcce1b0',1,'ServicoLimpeza::getCustoMensal()']]],
+  ['getdescricao_177',['getDescricao',['../class_servico.html#ae578738301fbbd08db910b778151eed7',1,'Servico']]],
+  ['getduracao_178',['getDuracao',['../class_servico_limpeza.html#acc71efb230f07c4a43cd6bc884e2e987',1,'ServicoLimpeza']]],
+  ['getendereco_179',['getEndereco',['../class_morada.html#a6f99dcea67481d34f5ec61a523d8145d',1,'Morada']]],
+  ['gethabitacoes_180',['getHabitacoes',['../class_condominio.html#a9d8d786cc0afca0d7eb8d60f5693dc35',1,'Condominio::getHabitacoes()'],['../class_condomino.html#ac4e37231c4a227d7c3c72114d5ee555f',1,'Condomino::getHabitacoes()']]],
+  ['getid_181',['getId',['../class_servico.html#ad89552655baa82b69e564ba633b3593a',1,'Servico']]],
+  ['getmorada_182',['getMorada',['../class_habitacao.html#af0f6977c75741bbb4ad99daaa1dd3d68',1,'Habitacao']]],
+  ['getnif_183',['getNif',['../class_condomino.html#a90d667d2e9b22631d9bcf551f2682525',1,'Condomino']]],
+  ['getnome_184',['getNome',['../class_condomino.html#a868c078643fe2c424426ecb3c57f3c11',1,'Condomino::getNome()'],['../class_prestador_servico_limpeza.html#a4432901694c77fd12bb40dea18586dec',1,'PrestadorServicoLimpeza::getNome()']]],
+  ['getpiso_185',['getPiso',['../class_apartamento.html#a8e91a807b69b2fe3e1a11f4cd4739279',1,'Apartamento']]],
+  ['getprestador_186',['getPrestador',['../class_servico_limpeza.html#a8e81bb473c2f417e7a70ea9eb79dcb25',1,'ServicoLimpeza']]],
+  ['getprestadores_187',['getPrestadores',['../class_condomi_x.html#aaf7b2ce76792cdccdceabdeb75d4089c',1,'CondomiX']]],
+  ['getservicos_188',['getServicos',['../class_condominio.html#a95e1d62c774ce476f36b86bd832d6836',1,'Condominio::getServicos()'],['../class_condomino.html#a154554c97ff04f31bc2ceecaa1501fc5',1,'Condomino::getServicos()']]],
+  ['getservicosefetuados_189',['getServicosEfetuados',['../class_condominio.html#aae263d18147294451b3ed2a32daa2720',1,'Condominio']]],
+  ['gettipologia_190',['getTipologia',['../class_apartamento.html#ab7940f4635d4ca7c6f760245847d0ecb',1,'Apartamento']]],
+  ['gettotalhoras_191',['getTotalHoras',['../class_prestador_servico_limpeza.html#a44a5e7a2c8c88479b194f56e12ba1081',1,'PrestadorServicoLimpeza']]]
+];

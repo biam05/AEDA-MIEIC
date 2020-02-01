@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="aeda1920_fp02_sol" targetName="aeda1920_fp02_sol" />
+      <config projectName="aeda1920_fp02_sol" targetName="Doxygen" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d0baf62-6ead-415d-9740-ed1424baf909" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Doxygen.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Doxygen.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Doxygen.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Doxygen.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Doxygen.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Doxygen.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/CondomiX.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/CondomiX.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/Condominio.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/Condominio.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/Condomino.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/Condomino.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/Habitacao.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/Habitacao.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/PedidoPrestacaoServico.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/PedidoPrestacaoServico.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/PrestadorServicoLimpeza.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/PrestadorServicoLimpeza.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/Servico.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/Servico.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/utils.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/Tests/utils.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/includes_CXX.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aeda1920_fp02_sol.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Doxyfile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Doxyfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/aeda1920_fp02_sol.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/aeda1920_fp02_sol.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/aeda1920_fp02_sol.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/aeda1920_fp02_sol.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/_condomi_x_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/_condomi_x_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/_condominio_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/_condominio_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/_condomino_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/_condomino_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/_excecoes_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/_excecoes_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/_habitacao_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/_habitacao_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/_pedido_prestacao_servico_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/_pedido_prestacao_servico_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/_prestador_servico_limpeza_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/_prestador_servico_limpeza_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/_servico_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/_servico_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/annotated.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/annotated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_apartamento-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_apartamento-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_apartamento.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_apartamento.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_condomi_x-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_condomi_x-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_condomi_x.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_condomi_x.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_condominio-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_condominio-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_condominio.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_condominio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_condomino-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_condomino-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_condomino.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_condomino.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_condomino___nao___encontrado-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_condomino___nao___encontrado-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_condomino___nao___encontrado.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_condomino___nao___encontrado.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_erro___escrita-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_erro___escrita-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_erro___escrita.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_erro___escrita.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_erro___ler-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_erro___ler-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_erro___ler.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_erro___ler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_habitacao-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_habitacao-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_habitacao.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_habitacao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_habitacao___nao___encontrada-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_habitacao___nao___encontrada-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_habitacao___nao___encontrada.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_habitacao___nao___encontrada.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_morada-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_morada-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_morada.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_morada.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_pedido_prestacao_servico-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_pedido_prestacao_servico-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_pedido_prestacao_servico.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_pedido_prestacao_servico.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_prestador_servico_limpeza-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_prestador_servico_limpeza-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_prestador_servico_limpeza.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_prestador_servico_limpeza.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_servico-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_servico-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_servico.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_servico.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_servico_limpeza-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_servico_limpeza-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_servico_limpeza.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_servico_limpeza.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_vivenda-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_vivenda-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/class_vivenda.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/class_vivenda.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/dir_33c78a012c8d08979f57a54a07694c46.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/dir_33c78a012c8d08979f57a54a07694c46.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/dir_f89abcb304c928c7d889aa5625570de5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/dir_f89abcb304c928c7d889aa5625570de5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/doxygen.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/doxygen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/dynsections.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/dynsections.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/files.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/files.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/functions.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/functions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/functions_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/functions_func.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/functions_vars.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/functions_vars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/hierarchy.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/hierarchy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/insertion_sort_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/insertion_sort_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/menudata.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/menudata.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_10.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_7.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_8.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_9.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_a.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_a.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_b.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_b.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_c.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_c.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_d.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_d.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_e.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_e.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_e.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_f.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/all_f.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/all_f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/classes_7.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/classes_7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_7.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_8.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_9.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_a.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_a.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_b.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_b.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_c.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_c.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_d.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/functions_d.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/functions_d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/nomatches.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/nomatches.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/searchdata.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/searchdata.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_7.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_8.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_9.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_a.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_a.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_b.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_b.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_c.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_c.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_d.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/search/variables_d.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/search/variables_d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/sequential_search_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/sequential_search_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/output/html/utils_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/output/html/utils_8h_source.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1TAIQaHBjLfLaf0QDCwF6T8UqRZ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.aeda1920_fp02_sol">
+    <configuration name="Doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aeda1920_fp02_sol" TARGET_NAME="Doxygen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aeda1920_fp02_sol" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aeda1920_fp02_sol" TARGET_NAME="aeda1920_fp02_sol" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aeda1920_fp02_sol" RUN_TARGET_NAME="aeda1920_fp02_sol">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.aeda1920_fp02_sol" />
+      <item itemvalue="CMake Application.Doxygen" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d0baf62-6ead-415d-9740-ed1424baf909" name="Default Changelist" comment="" />
+      <created>1572905035367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572905035367</updated>
+      <workItem from="1572905037054" duration="10254000" />
+      <workItem from="1572915491796" duration="24000" />
+      <workItem from="1572915647457" duration="5984000" />
+      <workItem from="1572948961612" duration="5794000" />
+      <workItem from="1573905922452" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

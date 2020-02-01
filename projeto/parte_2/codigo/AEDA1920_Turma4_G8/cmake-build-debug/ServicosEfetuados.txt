@@ -1,0 +1,47 @@
+1
+Servico de Limpeza
+50
+14
+Sr Antonio
+14
+----------
+3
+Servico de Pintura
+350
+----------
+1
+Servico de Limpeza
+50
+57
+Sr Carlos
+62
+----------
+1
+Servico de Limpeza
+50
+456477
+Sr Benedito
+456493
+----------
+1
+Servico de Limpeza
+50
+12
+Sr Antonio
+14
+----------
+6
+Servico de Seguranca
+100
+----------
+1
+Servico de Limpeza
+50
+24
+Sr Dinis
+77
+----------
+12
+Servico de Seguranca
+100
+----------

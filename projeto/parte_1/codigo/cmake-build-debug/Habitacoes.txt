@@ -1,0 +1,72 @@
+Rua da FEUP
+Porto
+4490-657
+234
+Apartamento
+qualquer tipo
+1
+----------
+Rua de Agosto
+Aveiro
+3800-003
+150
+Vivenda
+1000
+1
+----------
+Rua 5 de Outubro
+Porto
+4470-123
+100
+Apartamento
+T3
+10
+----------
+Rua Principal
+Faro
+8000-171
+100
+Vivenda
+200
+1
+----------
+Rua 25 de Abril
+Lisboa
+1000-004
+20
+Apartamento
+T2
+3
+----------
+Rua do Hospital
+Porto
+4470-161
+60
+Vivenda
+100
+0
+----------
+Avenida da Liberdade
+Castelo Branco
+6000-032
+60
+Apartamento
+T5
+4
+----------
+Rua dos Bananas 95
+Matosinhos
+4465-665
+200
+Vivenda
+200
+0
+----------
+Rua Agra Nova
+Povoa de Varzim
+4490-036
+200
+Vivenda
+100
+0
+----------

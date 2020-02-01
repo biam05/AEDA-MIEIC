@@ -1,0 +1,65 @@
+Paulo Ribeiro
+999999999
+4490-036
+-----
+Servico de Pintura
+350
+Servico de Limpeza
+50
+456
+Sr Antonio
+470
+Servico de Canalizacao
+100
+Servico de Apoio
+30
+----------
+Beatriz Mendes
+123456789
+4490-657
+-----
+----------
+Daniel Silva
+987654321
+-----
+----------
+Hugo Guimaraes
+555555555
+-----
+Servico de Apoio
+30
+----------
+Diana Chaves
+123123123
+4470-161
+-----
+Servico de Limpeza
+50
+5
+Sr Dinis
+58
+----------
+Joao Felix
+456123789
+4470-123
+6000-032
+-----
+----------
+Jane Doe
+789789789
+3800-003
+-----
+----------
+Tiago Silva
+010101010
+-----
+----------
+Maria Costa
+123123456
+1000-004
+-----
+----------
+Fernando Marinho
+888888888
+-----
+----------
