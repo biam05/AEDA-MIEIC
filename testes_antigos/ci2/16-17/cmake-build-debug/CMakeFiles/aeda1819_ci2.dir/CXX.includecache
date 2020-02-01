@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci2/16-17/Tests/AfterSalesService.cpp
+algorithm
+-
+AfterSalesService.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci2/16-17/Tests/AfterSalesService.h
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci2/16-17/Tests/AfterSalesService.h
+vector
+-
+queue
+-
+vector
+-
+Article.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci2/16-17/Tests/Article.h
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci2/16-17/Tests/Article.h
+

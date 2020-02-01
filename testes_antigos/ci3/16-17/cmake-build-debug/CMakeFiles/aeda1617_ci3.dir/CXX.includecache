@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/16-17/Tests/BST.h
+iostream
+-
+stack
+-
+queue
+-
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/16-17/Tests/Book.h
+User.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/16-17/Tests/User.h
+string
+-
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/16-17/Tests/ReadingClub.cpp
+ReadingClub.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/16-17/Tests/ReadingClub.h
+algorithm
+-
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/16-17/Tests/ReadingClub.h
+Book.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/16-17/Tests/Book.h
+User.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/16-17/Tests/User.h
+BST.h
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/16-17/Tests/BST.h
+vector
+-
+tr1/unordered_set
+-
+queue
+-
+
+D:/ESCOLA/fac/2o ano/AEDA/TESTES ANTIGOS/ci3/16-17/Tests/User.h
+string
+-
+vector
+-
+utility
+-
+
